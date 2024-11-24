@@ -86,9 +86,9 @@
         layer_Nav {
             bindings = <
 &trans     &trans  &trans  &trans  &trans  &trans  &trans                                      &trans  &trans    &trans             &trans             &trans                &trans                &trans
-&trans     &trans  &trans  &trans  &trans  &trans  &trans                                      &trans  &trans    &kp LEFT_BRACKET   &kp RIGHT_BRACKET  &kp LEFT_BRACE        &kp RIGHT_BRACE       &trans
+&trans     &trans  &trans  &trans  &trans  &trans  &trans                                      &trans  &trans    &kp C_VOLUME_DOWN  &kp C_VOLUME_UP    &kp C_BRIGHTNESS_INC  &kp C_BRIGHTNESS_DEC  &trans
 &kp LC(C)  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &kp LEFT  &kp DOWN           &kp UP             &kp RIGHT             &trans                &trans
-&trans     &trans  &trans  &trans  &trans  &trans                  &trans      &trans                  &trans    &kp C_VOLUME_DOWN  &kp C_VOL_UP       &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &trans
+&trans     &trans  &trans  &trans  &trans  &trans                  &trans      &trans                  &trans    &kp LEFT_BRACKET   &kp RIGHT_BRACKET  &kp LEFT_BRACE        &kp RIGHT_BRACE       &trans
 &trans     &trans  &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans            &trans             &trans             &trans                &trans                &trans
             >;
         };
